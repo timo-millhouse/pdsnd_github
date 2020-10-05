@@ -1,5 +1,5 @@
 ### Date created: 
-4/10/2020
+4 October 2020
 
 ### Project Title: 
 U.S. Bikesharing Data
