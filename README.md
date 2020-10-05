@@ -14,6 +14,6 @@ This project explores data related to bike share systems for three major cities 
 * washington.csv
 
 ### Credits
-https://github.com/udacity/pdsnd_github
-https://guides.github.com/features/mastering-markdown/
-https://www.udacity.com/
+* https://github.com/udacity/pdsnd_github
+* https://guides.github.com/features/mastering-markdown/
+* https://www.udacity.com/
